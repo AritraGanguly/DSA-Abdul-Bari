@@ -1,5 +1,5 @@
 ## 1) Essentials C and C++
-* -[X] Arrays Basics
+* - [X] Arrays Basics
 06:23  
 Practice : Arrays Basics
 13:37  
