@@ -1,25 +1,25 @@
 ## 1) Essentials C and C++
-Arrays Basics
+-Arrays Basics
 06:23  
 Practice : Arrays Basics
 13:37  
-Structures
+-Structures
 18:26  
 Practice : Structures
 10:49  
-Pointers
+-Pointers
 11:01  
 Practice : Pointers
 14:41  
-Reference in C++
+-Reference in C++
 03:56  
 Practice : Reference
 05:15  
-Pointer to Structure
+-Pointer to Structure
 06:03  
 Practice : Pointer to Structure
 06:44  
-Functions
+-Functions
 12:19  
 Practice : Functions
 05:37  
