@@ -1,4 +1,4 @@
-- []ESSENTIALS C AND C++ CONCEPTS
+- [] ESSENTIALS C AND C++ CONCEPTS
 
 Arrays Basics 06:23
 Practice : Arrays Basics 13:37
