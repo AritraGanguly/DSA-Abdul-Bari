@@ -1,9 +1,9 @@
 ## 1) Essentials C and C++
-* -[] Arrays Basics
+* -[X] Arrays Basics
 06:23  
 Practice : Arrays Basics
 13:37  
-* - [] Structures
+* - [X] Structures
 18:26  
 Practice : Structures
 10:49  
